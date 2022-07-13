@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-**bgragavendiran/bgragavendiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ _I am Ragavendiran Balasubramanian, Developer by Profession. Ideator by passion. Entrepreneur by Mindset._ ✨ 
 
 Here are some ideas to get you started:
 
