@@ -1,19 +1,18 @@
 ### Hi there 👋
 
-<!--
+
 **bgragavendiran/bgragavendiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working in a DeepTech Medical startup as a Fullstack Developer.
+- 🌱 I’m currently learning AR/VR, Web3, Android, MERN dev.
+- 👯 I’m looking to collaborate on anything thats cool and interesting.
+- 🤔 I’m looking for help with python, web3 and android projects.
+- 💬 Ask me about startups.
+- 📫 How to reach me: https://bio.link/bgragavendiran
+- ⚡ Fun fact: Every commit without review incurs a Debt to the code, Which will be demanded with interest and principal in the production thread.
+
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey!  👋</h1>
 
