@@ -2,7 +2,7 @@
 
 ✨ _I am Ragavendiran Balasubramanian, Developer by Profession. Ideator by passion. Entrepreneur by Mindset._ ✨ 
 
-Here are some ideas to get you started:
+What I do and where we can collab:
 
 - 🔭 I’m currently working in a DeepTech Medical startup as a Fullstack Developer.
 - 🌱 I’m currently learning AR/VR, Web3, Android, MERN dev.
